@@ -1,1 +1,1 @@
-# Vanilla-JS-Challenge
+# JavaScript 복습
